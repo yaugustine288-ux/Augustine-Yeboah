@@ -27,13 +27,14 @@ background-color: #0A192F;
 nav{
     background-color: #333;
     text-decoration: none;
-    margin-right: 20px;
+    margin-right: 0px;
     font-size: 18px;
     display:flex;
     justify-content: flex-end;
     padding: 20px;
-    background-color: #081b29;
+    background-color: white;
     gap: 25px;
+    border-radius: 10px;
 }
 nav a:hover{
     color:yellow
